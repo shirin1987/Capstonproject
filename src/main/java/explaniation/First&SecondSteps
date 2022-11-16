@@ -1,0 +1,98 @@
+Step1:
+a: Creating the simple maven project
+
+
+
+b: Instaling plugins:
+	the job of plugins are to read the file. 
+	it also recognize the files types with  it`s different extention.
+	1: cucumber plugin
+
+
+Step2: 
+a: Adding properties in POM.xml
+
+b: Adding depedencies in POM.xml file : are use to download the JRE files of following heads
+	1: cucumber
+	2: selenium
+	3: webdriver
+	4: apache is for reading and writing a file from excelShet
+	5: my sql: to connect to dataBase
+	6: common.io is use for file utilites
+	7: ymal: is for reading yml data files 
+	8: log4j: 
+
+c: Adding build and plugins:
+	plugins are goes under the build
+	build is one of the life cycle in mavan
+	maven has few lifeCycle: 1- clean 2: install 3- build
+	the job of build is to generate the report and execute the test cases
+
+
+
+
+step 3:
+
+	a: Creating packages and files:
+
+packages: name convintion should be all lower case and seperate by dod.
+
+
+
+Step4(enviroment confiration): here we work with two files with different extension, .yml and .properties
+	For each file type, we will have different extension. 
+
+
+
+A: .yml = 
+	env_config.yml we need to make sure the extension is    .yml 
+	yml file is key and value
+
+note: in framework we can transmate a data in different ways:
+	json
+	properties
+	yaml
+	xml
+
+	These files are use to store the data
+	so in configration files we need to provide and dedicate that in which enviroment we want to
+	run and test our test cases like which browser? which website and ...
+
+	Why we need to use the configration filese?
+	to reduce the hard coding
+	we want to write the values outside of the java class
+
+Headless: 
+	in chrome we can execute headless, it means execution wll be happen but we will no see.
+
+
+
+
+B: log4j.properties =
+ 	we need to make sure the extension is   .properties
+ 	design of output and location 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

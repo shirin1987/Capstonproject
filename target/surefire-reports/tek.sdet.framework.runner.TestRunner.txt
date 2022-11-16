@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: tek.sdet.framework.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.529 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
+Retail Home Page.Verify department sidebar options  Time elapsed: 3.014 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index: 0
+	at java.base/java.util.Collections$EmptyList.get(Collections.java:4586)
+	at tek.sdet.framework.steps.HomeSteps.belowOptionsArePresentInDepartment(HomeSteps.java:172)
+	at ✽.below options are present in department(classpath:features/Home.feature:20)
+
