@@ -2239,3 +2239,96 @@
 2022-11-16 02:09:26,011 - logger_File -INFO - User clicked on proceddChechoutButtn
 2022-11-16 02:09:26,071 - logger_File -INFO - User clicked on placed ordered button
 2022-11-16 02:09:26,299 - logger_File -INFO - Message was displayed
+2022-11-25 23:47:20,171 - logger_File -INFO - React App is equal to React App
+2022-11-25 23:47:20,310 - logger_File -INFO - User clicked on sign in button
+2022-11-25 23:47:20,605 - logger_File -INFO - user entered email and password
+2022-11-25 23:47:20,713 - logger_File -INFO - user clicked on loggin button
+2022-11-25 23:47:20,944 - logger_File -INFO - Account Option was display
+2022-11-25 23:47:21,091 - logger_File -INFO - User select the SmartHome option
+2022-11-25 23:47:21,225 - logger_File -INFO - User send the value to search input
+2022-11-25 23:47:21,336 - logger_File -INFO - User clicked on serach Button
+2022-11-25 23:47:21,521 - logger_File -INFO - User clicked on item
+2022-11-25 23:47:21,696 - logger_File -INFO - User selected 2 for quantity
+2022-11-25 23:47:21,827 - logger_File -INFO - User clicked on add cart button
+2022-11-25 23:47:21,943 - logger_File -INFO - Quantity changed and matched
+2022-11-25 23:47:22,064 - logger_File -INFO - Order
+2022-11-25 23:47:22,214 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-11-25 23:47:22,318 - logger_File -INFO - User clicked on placed ordered button
+2022-11-25 23:47:22,499 - logger_File -INFO - Message was displayed
+2022-11-26 00:01:39,694 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:01:39,846 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:01:40,139 - logger_File -INFO - user entered email and password
+2022-11-26 00:01:40,250 - logger_File -INFO - user clicked on loggin button
+2022-11-26 00:01:40,431 - logger_File -INFO - Account Option was display
+2022-11-26 00:01:40,570 - logger_File -INFO - User select the SmartHome option
+2022-11-26 00:01:40,700 - logger_File -INFO - User send the value to search input
+2022-11-26 00:01:40,805 - logger_File -INFO - User clicked on serach Button
+2022-11-26 00:01:40,979 - logger_File -INFO - User clicked on item
+2022-11-26 00:01:41,150 - logger_File -INFO - User selected 2 for quantity
+2022-11-26 00:01:41,282 - logger_File -INFO - User clicked on add cart button
+2022-11-26 00:01:41,461 - logger_File -INFO - Quantity changed and matched
+2022-11-26 00:01:41,579 - logger_File -INFO - Order
+2022-11-26 00:01:41,729 - logger_File -INFO - User clicked on proceddChechoutButtn
+2022-11-26 00:01:41,841 - logger_File -INFO - User clicked on placed ordered button
+2022-11-26 00:01:42,022 - logger_File -INFO - Message was displayed
+2022-11-26 00:02:38,166 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:02:38,313 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:02:38,626 - logger_File -INFO - user entered email and password
+2022-11-26 00:02:38,734 - logger_File -INFO - user clicked on loggin button
+2022-11-26 00:02:38,913 - logger_File -INFO - Account Option was display
+2022-11-26 00:03:40,552 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:03:40,686 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:03:41,361 - logger_File -INFO - User send the follow texts
+2022-11-26 00:03:41,470 - logger_File -INFO - User clicked on created account
+2022-11-26 00:03:41,698 - logger_File -INFO - New profile text was displayed
+2022-11-26 00:41:53,864 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:41:53,998 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:41:54,634 - logger_File -INFO - User send the follow texts
+2022-11-26 00:41:54,741 - logger_File -INFO - User clicked on created account
+2022-11-26 00:41:55,021 - logger_File -INFO - New profile text was displayed
+2022-11-26 00:42:17,443 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:42:17,589 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:42:18,234 - logger_File -INFO - User send the follow texts
+2022-11-26 00:42:18,341 - logger_File -INFO - User clicked on created account
+2022-11-26 00:43:12,720 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:43:12,864 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:43:13,497 - logger_File -INFO - User send the follow texts
+2022-11-26 00:43:13,603 - logger_File -INFO - User clicked on created account
+2022-11-26 00:45:31,540 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:45:31,692 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:45:32,327 - logger_File -INFO - User send the follow texts
+2022-11-26 00:45:32,433 - logger_File -INFO - User clicked on created account
+2022-11-26 00:52:28,385 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:52:28,527 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:52:29,227 - logger_File -INFO - User send the follow texts
+2022-11-26 00:52:29,342 - logger_File -INFO - User clicked on created account
+2022-11-26 00:54:31,426 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:54:31,641 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:54:32,299 - logger_File -INFO - User send the follow texts
+2022-11-26 00:54:32,404 - logger_File -INFO - User clicked on created account
+2022-11-26 00:54:32,689 - logger_File -INFO - New profile text was displayed
+2022-11-26 00:55:10,484 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:55:10,636 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:55:11,304 - logger_File -INFO - User send the follow texts
+2022-11-26 00:55:11,418 - logger_File -INFO - User clicked on created account
+2022-11-26 00:57:09,289 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:57:09,421 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:57:10,079 - logger_File -INFO - User send the follow texts
+2022-11-26 00:57:10,187 - logger_File -INFO - User clicked on created account
+2022-11-26 00:58:14,604 - logger_File -INFO - React App is equal to React App
+2022-11-26 00:58:14,736 - logger_File -INFO - User clicked on sign in button
+2022-11-26 00:58:15,404 - logger_File -INFO - User send the follow texts
+2022-11-26 00:58:15,508 - logger_File -INFO - User clicked on created account
+2022-11-26 00:59:59,942 - logger_File -INFO - React App is equal to React App
+2022-11-26 01:00:00,109 - logger_File -INFO - User clicked on sign in button
+2022-11-26 01:00:00,766 - logger_File -INFO - User send the follow texts
+2022-11-26 01:00:00,871 - logger_File -INFO - User clicked on created account
+2022-11-26 01:01:59,811 - logger_File -INFO - React App is equal to React App
+2022-11-26 01:01:59,961 - logger_File -INFO - User clicked on sign in button
+2022-11-26 01:02:00,608 - logger_File -INFO - User send the follow texts
+2022-11-26 01:02:00,712 - logger_File -INFO - User clicked on created account
+2022-11-26 01:03:07,908 - logger_File -INFO - React App is equal to React App
+2022-11-26 01:03:08,150 - logger_File -INFO - User clicked on sign in button
+2022-11-26 01:03:08,800 - logger_File -INFO - User send the follow texts
+2022-11-26 01:03:08,908 - logger_File -INFO - User clicked on created account
+2022-11-26 01:03:09,218 - logger_File -INFO - New profile text was displayed
